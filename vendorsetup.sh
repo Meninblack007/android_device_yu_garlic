@@ -1,0 +1,3 @@
+add_lunch_combo aosp_garlic-eng
+add_lunch_combo aosp_garlic-user
+add_lunch_combo aosp_garlic-userdebug
